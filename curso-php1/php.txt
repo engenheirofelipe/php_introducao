@@ -1,0 +1,10 @@
+ PHP não tem problemas de segurança.
+
+ Foi a primeira linguagem de programação a implementar criptografia moderna na biblioteca padrão da linguagem.
+ Não é preciso instalar nenhum componente externo , ou cpódigo da internet para ter criptografia moderna.
+
+ O código PHP é escalável. O facebook usa, wikipedia e trivago por exemplo, usa PHP. Foi feito para funcionar na web , trabalha com a arquitetura share nothing, não armazena dados para próxima requisição. 
+ O PHP domina a web , 79% dos servidores web tem o php rodando como a principal linguagem back end.
+
+ PHP em grandes sistemas.  Leroy Merlin, utiliza laravel. 
+ Pick pay, também utiliza laravel e extensão SU. 

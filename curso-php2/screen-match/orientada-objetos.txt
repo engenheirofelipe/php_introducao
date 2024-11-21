@@ -1,0 +1,8 @@
+Programação orientada a objetos.
+
+Programação procedural ou imperativa : Temos dados soltos e variáveis e alguns procedimentos. A forma de organização é atravé de funções.
+
+Outras formas de fazer isso existem. 
+
+A orientação a objetos ajuda a mitigar problemas de separação de dados e argumentos  promovidos pela programação procedural. Na programação procedural, temos funções que recebem dados que seram manipulados por
+parâmetro.  

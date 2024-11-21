@@ -1,0 +1,39 @@
+ Servidores web.
+
+ A web funciona com dois pontos principai : cliente (usuário) e servidor (onde o código  tá rodando )
+
+ Por exemplo quando um usuário acessa a alura.com.br. O cliente é o usuário  e o navegador é o cliente http.
+  O navegador vai acessar o servidor da alura e o código roda lá por trás. O código executa no servidor. Antes do código ser executado,
+  precisa ter um programa instalado nesse servidor da alura que fica pronto para receber as conexões de http. Chamado de servidor web.
+  o php já tem um servidor imbutido nele. Por enquento não precisa utilizar outro programa.
+
+  Comando para iniciar o servidor : php -S localhost:8001 -t public
+
+
+  Como funciona a internet por baixo dos panos :
+
+  Quando um pessoa digita o endereço url do youtube por exemplo.
+  A comunicação é feita utilizando um modelo cliente - servidor. O navegador faz  um request para o servidor do youtube. 
+  O servidor do youtube vai receber o pedido  e vai gerar uma resposta para o pedido que vai estar num formato  que o navegador sabe realizar o entendimento.
+
+    O cliente faz o pedido. Pode ser o usuário, ou aplicativo do youtube. O servidor processa o pedido e devolve uma resposta.
+
+ Como o servidor entende um pedido feito ?
+
+ Protocolo de comunicação. HTTP 
+
+
+ PHP + HTML 
+
+ O php envia pra saída, qualquer coisa que estiver fora das tags php.
+
+!= Linguagem compilada
+
+ PHP é uma linguagem de programação interpretada :
+
+     Pedaço de código que algum interpretador precisará executar.
+
+    Executa a primeira, segunda linha e se achar algum erro na terceira linha  o código para.
+
+    
+
